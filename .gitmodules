@@ -1,3 +1,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = git@github.com:caguiclajmg/signspeak-firmware.git
+[submodule "companion_android"]
+	path = companion_android
+	url = git@github.com:caguiclajmg/signspeak-companion_android.git
